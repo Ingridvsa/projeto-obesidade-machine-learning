@@ -83,10 +83,13 @@ git clone https://github.com/Ingridvsa/projeto-obesidade-machine-learning.git
 ```
 
 2. Instale as dependênicas:
+   
 ```
 pip install -r requirements.txt
 ```
-3.Execute o notebook:
+
+3. Execute o notebook:
+
 ```
 Abra o arquivo **notebooks/IA_e_DataScience__Equipe_06.ipynb** no VS Code (com a extensão Jupyter instalada) ou no Jupyter Notebook tradicional.
 ```
